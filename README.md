@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/bseth99/pen/fbokh?__cf_chl_jschl_tk__=46aa679c5c05f1e57f2ce1ad072a06eb849c2c67-1603353161-0-aa63vi1zqdo-gqqjefsuz-gwadnfm_omziabgjl-fn31mdtzh5kkdtdsq--wftlzhoqcjvjx5p4enx1y9wca7mft7q1hwznmm60usw0zdcmigy3zxxijlcnf-2adc3abhnwobjvyl8kymvgad9runrisitjgycpskhmphg0rgj-hgkxy--q1aplrjb9eytxvfki7lzge6aplrg1evreilz1icyfb5rbtnginf84wztt2c5krypirhrw1jadrzxcvddqjalqogcr00x08lrdfsmrbpveb0g85179ixrdpxvjtakxd8uwn6hd6wojvmxsoodet8on19p8s2z9qgu7duhfyhkznnoh7kiv3s1p220di" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/bseth99/pen/fbokh?__cf_chl_jschl_tk__=46aa679c5c05f1e57f2ce1ad072a06eb849c2c67-1603353161-0-aa63vi1zqdo-gqqjefsuz-gwadnfm_omziabgjl-fn31mdtzh5kkdtdsq--wftlzhoqcjvjx5p4enx1y9wca7mft7q1hwznmm60usw0zdcmigy3zxxijlcnf-2adc3abhnwobjvyl8kymvgad9runrisitjgycpskhmphg0rgj-hgkxy--q1aplrjb9eytxvfki7lzge6aplrg1evreilz1icyfb5rbtnginf84wztt2c5krypirhrw1jadrzxcvddqjalqogcr00x08lrdfsmrbpveb0g85179ixrdpxvjtakxd8uwn6hd6wojvmxsoodet8on19p8s2z9qgu7duhfyhkznnoh7kiv3s1p220di" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moulina-pradhan-3729821a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/moulina-pradhan-3729821a1/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://instagram.com/_khushboo.goel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
