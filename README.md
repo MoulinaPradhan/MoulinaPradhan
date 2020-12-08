@@ -1,4 +1,4 @@
-[![MasterHead](https://komarev.com/ghpvc/?username=moulinapradhan&label=Profile%20views&color=0e75b6&style=flat/)]
+[![MasterHead](https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47bfvookwtrs33qyqccb8f726zxqowovz2y84r2q1c&rid=giphy.gif)]
 <h1 align="center">Hi👋, I'm Moulina Pradhan</h1>
 <h3 align="center">A passionate Learner😎</h3>
 
