@@ -1,4 +1,4 @@
-[![MasterHead](Pic.jpg)](https://khushboogoel01.github.io)
+[![MasterHead](https://www.upwork.com/hire/programming-languages-freelancers/)]
 <h1 align="center">Hi👋, I'm Moulina Pradhan</h1>
 <h3 align="center">A passionate Learner😎</h3>
 
