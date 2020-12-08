@@ -1,6 +1,6 @@
 [![MasterHead](Pic.jpg)](https://khushboogoel01.github.io)
-<h1 align="center">Hi👋, I'm Moulina Pradhan😊</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi👋, I'm Moulina Pradhan</h1>
+<h3 align="center">A passionate Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moulinapradhan&label=Profile%20views&color=0e75b6&style=flat" alt="moulinapradhan" /> </p>
 <img align="right" alt="Coding" width="400" style="border: 2px solid red"; src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47bfvookwtrs33qyqccb8f726zxqowovz2y84r2q1c&rid=giphy.gif">
@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **pmoulina76@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
-<div style="color:blue;font-size:46px;">
+- ⚡ Fun fact **I think I'm weird**
+<div background="blue">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/bseth99/pen/fbokh?__cf_chl_jschl_tk__=46aa679c5c05f1e57f2ce1ad072a06eb849c2c67-1603353161-0-aa63vi1zqdo-gqqjefsuz-gwadnfm_omziabgjl-fn31mdtzh5kkdtdsq--wftlzhoqcjvjx5p4enx1y9wca7mft7q1hwznmm60usw0zdcmigy3zxxijlcnf-2adc3abhnwobjvyl8kymvgad9runrisitjgycpskhmphg0rgj-hgkxy--q1aplrjb9eytxvfki7lzge6aplrg1evreilz1icyfb5rbtnginf84wztt2c5krypirhrw1jadrzxcvddqjalqogcr00x08lrdfsmrbpveb0g85179ixrdpxvjtakxd8uwn6hd6wojvmxsoodet8on19p8s2z9qgu7duhfyhkznnoh7kiv3s1p220di" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/bseth99/pen/fbokh?__cf_chl_jschl_tk__=46aa679c5c05f1e57f2ce1ad072a06eb849c2c67-1603353161-0-aa63vi1zqdo-gqqjefsuz-gwadnfm_omziabgjl-fn31mdtzh5kkdtdsq--wftlzhoqcjvjx5p4enx1y9wca7mft7q1hwznmm60usw0zdcmigy3zxxijlcnf-2adc3abhnwobjvyl8kymvgad9runrisitjgycpskhmphg0rgj-hgkxy--q1aplrjb9eytxvfki7lzge6aplrg1evreilz1icyfb5rbtnginf84wztt2c5krypirhrw1jadrzxcvddqjalqogcr00x08lrdfsmrbpveb0g85179ixrdpxvjtakxd8uwn6hd6wojvmxsoodet8on19p8s2z9qgu7duhfyhkznnoh7kiv3s1p220di" height="30" width="40" /></a>
