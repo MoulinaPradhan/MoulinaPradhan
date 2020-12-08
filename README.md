@@ -1,4 +1,4 @@
-[![MasterHead](Pic2.jpg)](https://github.com/MoulinaPradhan)
+[![MasterHead](Pic3.jpg)](https://github.com/MoulinaPradhan)
 <h1 align="center">Hi👋, I'm Moulina Pradhan</h1>
 <h3 align="center">A passionate Learner😎</h3>
 
