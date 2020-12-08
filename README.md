@@ -1,4 +1,4 @@
-[![MasterHead](https://www.upwork.com/hire/programming-languages-freelancers/)]
+[![MasterHead](https://komarev.com/ghpvc/?username=moulinapradhan&label=Profile%20views&color=0e75b6&style=flat/)]
 <h1 align="center">Hi👋, I'm Moulina Pradhan</h1>
 <h3 align="center">A passionate Learner😎</h3>
 
