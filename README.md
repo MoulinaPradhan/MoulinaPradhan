@@ -1,5 +1,5 @@
 [![MasterHead](Pic4.jpg)](https://github.com/MoulinaPradhan)
-<h1 align="center">Hi👋, I'm Moulina Pradhan</h1>
+<h1 align="center">Hi <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="60"/> , I'm Moulina Pradhan</h1>
 <h3 align="center">A passionate Learner😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moulinapradhan&label=Profile%20views&color=0e75b6&style=flat" alt="moulinapradhan" /> </p>
