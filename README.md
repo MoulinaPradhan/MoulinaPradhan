@@ -13,10 +13,10 @@
 <div background="blue">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/bseth99/pen/fbokh?__cf_chl_jschl_tk__=46aa679c5c05f1e57f2ce1ad072a06eb849c2c67-1603353161-0-aa63vi1zqdo-gqqjefsuz-gwadnfm_omziabgjl-fn31mdtzh5kkdtdsq--wftlzhoqcjvjx5p4enx1y9wca7mft7q1hwznmm60usw0zdcmigy3zxxijlcnf-2adc3abhnwobjvyl8kymvgad9runrisitjgycpskhmphg0rgj-hgkxy--q1aplrjb9eytxvfki7lzge6aplrg1evreilz1icyfb5rbtnginf84wztt2c5krypirhrw1jadrzxcvddqjalqogcr00x08lrdfsmrbpveb0g85179ixrdpxvjtakxd8uwn6hd6wojvmxsoodet8on19p8s2z9qgu7duhfyhkznnoh7kiv3s1p220di" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/bseth99/pen/fbokh?__cf_chl_jschl_tk__=46aa679c5c05f1e57f2ce1ad072a06eb849c2c67-1603353161-0-aa63vi1zqdo-gqqjefsuz-gwadnfm_omziabgjl-fn31mdtzh5kkdtdsq--wftlzhoqcjvjx5p4enx1y9wca7mft7q1hwznmm60usw0zdcmigy3zxxijlcnf-2adc3abhnwobjvyl8kymvgad9runrisitjgycpskhmphg0rgj-hgkxy--q1aplrjb9eytxvfki7lzge6aplrg1evreilz1icyfb5rbtnginf84wztt2c5krypirhrw1jadrzxcvddqjalqogcr00x08lrdfsmrbpveb0g85179ixrdpxvjtakxd8uwn6hd6wojvmxsoodet8on19p8s2z9qgu7duhfyhkznnoh7kiv3s1p220di" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/moulina-pradhan-3729821a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/moulina-pradhan-3729821a1/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pmoulina76" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/pmoulina76" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pmoulina76/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="pmoulina76" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/moulina-pradhan-3729821a1/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="https://www.linkedin.com/in/moulina-pradhan-3729821a1/" height="30" width="40" /></a>
+<a href="https://leetcode.com/aniloum_22/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/aniloum_22/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pmoulina76/profile" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="pmoulina76" height="30" width="40" /></a>
 </p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
